@@ -16,3 +16,30 @@ Combinamos inovação, tecnologia e estratégia para apoiar empresas de diferent
 - 🕒 Suporte 24 horas,com profissionais habilitados.
 
 - 🏢 Suporte ideal de micro a grandes empresas.
+
+
+## 🚀 Primeiros Passos
+
+# 📋 Pré-requisitos
+
+- Equipamento com conexão à internet.
+
+- Chave de acesso fornecida pela intellect company
+
+## 🔧 Instalação
+
+Não é necessária instalação local. A solução é 100% baseada em nuvem – basta acessar via navegador com conexão à internet.
+
+
+
+
+
+
+## ✒️ Autores
+   # 👤 Gustavo Brinate de Azevedo Pereira — Scrum Master
+
+- Linguagens: C++, HTML, Python
+
+- Idiomas: Português (nativo), Inglês (avançado)
+
+- Soft Skills: Atenção a detalhes, flexibilidade, colaboração
