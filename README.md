@@ -1,5 +1,5 @@
 # 🤖INTELLECT COMPANY
-<img width="1536" height="1024" alt="logo int companny" src="https://github.com/user-attachments/assets/8a96ba9b-61a9-4de9-82ff-a07398616811" />
+<img width="500" height="250" alt="logo int companny" src="https://github.com/user-attachments/assets/8a96ba9b-61a9-4de9-82ff-a07398616811" />
 
 #  📌Descrição 
 A Intellect Company é uma empresa de tecnologia com o objetivo de transformar o dia a dia de negócios parceiros por meio de soluções inteligentes e inovadoras.
