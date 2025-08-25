@@ -9,3 +9,10 @@ Nosso foco está em facilitar e automatizar processos, oferecendo ferramentas qu
 Combinamos inovação, tecnologia e estratégia para apoiar empresas de diferentes setores a alcançarem maior produtividade, redução de custos e melhoria contínua em seus serviços.
 
 # ✨ Funcionalidades
+- ⏱️ Otimização de tempo e tarefas.
+
+- 💡 Solução de problemas de forma agil e sem perca de tempo.
+
+- 🕒 Suporte 24 horas,com profissionais habilitados.
+
+- 🏢 Suporte ideal de micro a grandes empresas.
