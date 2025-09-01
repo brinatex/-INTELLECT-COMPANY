@@ -21,7 +21,7 @@ Combinamos **inovação, tecnologia e estratégia** para apoiar empresas de dife
 ## 🚀 Primeiros Passos
 
 ### 📋 Pré-requisitos
-- Equipamento com conexão à internet  
+- [Equipamento com conexão à internet](https://github.com/)  
 - Chave de acesso fornecida pela **Intellect Company**
 
 ### 🔧 Instalação
