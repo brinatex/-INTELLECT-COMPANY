@@ -12,21 +12,21 @@ Combinamos **inovação, tecnologia e estratégia** para apoiar empresas de dife
 
 ## ✨ Funcionalidades
 - [O que podemos oferecer!](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/funcionalidades.md)  
----
-
-## 🚀 Primeiros Passos
-
-### 📋 Pré-requisitos
-- [backlog](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/backlog.md)  
-- Chave de acesso fornecida pela **Intellect Company**
-
-### 🔧 Instalação
-Não é necessária instalação local.  
-A solução é **100% baseada em nuvem** – basta acessar via navegador com conexão à internet.
+--------------------------------------------------------------------------------------------------------------
 
 
-### Sprints
-- [Tabela de organização](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/Sprint.md)
+### 📋Documentação
+- [Backlog](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/backlog.md)  
+
+- [Sprints](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/Sprint.md)
+----------------------------------------------------------------------------------------------------------------------
 
 ## ✒️ Autores
-- [Product owner](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/Desenvolvedores.md)  
+- [Product owner](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/Desenvolvedores.md)
+-----------------------------------------------------------------------------------------------------------------------
+## 📞 Contatos
+- email: intellectcomp@gmail.com
+- telefone:(12)981715458
+- instagram:@inttcomp
+  
+
