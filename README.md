@@ -30,7 +30,7 @@ A solução é **100% baseada em nuvem** – basta acessar via navegador com con
 
 
 ### Sprints
-[Tabela de sprints](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/Sprint.md)
+- [Tabela de organização](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/backlog.md)  
 ---
 
 ## ✒️ Autores
