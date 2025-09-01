@@ -11,11 +11,7 @@ Combinamos **inovação, tecnologia e estratégia** para apoiar empresas de dife
 ---
 
 ## ✨ Funcionalidades
-- ⏱️ **Otimização de tempo e tarefas**  
-- 💡 **Solução de problemas de forma ágil, sem perda de tempo**  
-- 🕒 **Suporte 24 horas, com profissionais habilitados**  
-- 🏢 **Atendimento ideal para empresas de pequeno, médio e grande porte**  
-
+- [O que podemos oferecer!](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/funcionalidades.md)  
 ---
 
 ## 🚀 Primeiros Passos
