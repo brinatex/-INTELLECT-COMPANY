@@ -28,6 +28,9 @@ Combinamos **inovação, tecnologia e estratégia** para apoiar empresas de dife
 Não é necessária instalação local.  
 A solução é **100% baseada em nuvem** – basta acessar via navegador com conexão à internet.
 
+
+### Sprints
+[Tabela de sprints](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/Sprint.md)
 ---
 
 ## ✒️ Autores
