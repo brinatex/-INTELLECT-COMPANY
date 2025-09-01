@@ -33,18 +33,4 @@ A solução é **100% baseada em nuvem** – basta acessar via navegador com con
 - [Tabela de organização](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/Sprint.md)
 
 ## ✒️ Autores
-👤 **Gustavo Brinate de Azevedo Pereira** — *Scrum Master*  
-
-**Linguagens:**  
-- C++  
-- HTML  
-- Python  
-
-**Idiomas:**  
-- Português (nativo)  
-- Inglês (avançado)  
-
-**Soft Skills:**  
-- Atenção a detalhes  
-- Flexibilidade  
-- Colaboração  
+- [Product owner](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/Desenvolvedores.md)  
