@@ -1,6 +1,9 @@
 # 🤖INTELLECT COMPANY
 <img width="400" height="400" alt="logo int companny" src="https://github.com/user-attachments/assets/8a96ba9b-61a9-4de9-82ff-a07398616811" />
 
+[![Status](https://img.shields.io/badge/status-em_desenvolvimento-yellowgreen.svg)](https://shields.io/) [![Backend](https://img.shields.io/badge/Backend-ASP.NET%20Core%208-blueviolet.svg)](https://shields.io/) [![Frontend](https://img.shields.io/badge/Frontend-Desktop%20%7C%20Web%20%7C%20Mobile-orange.svg)](https://shields.io/)
+
+
 ## 📌 Descrição
 A **Intellect Company** é uma empresa de tecnologia com o objetivo de **transformar o dia a dia de negócios parceiros** por meio de soluções inteligentes e inovadoras.
 
