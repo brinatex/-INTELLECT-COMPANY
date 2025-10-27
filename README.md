@@ -21,15 +21,15 @@ Combinamos **inovação, tecnologia e estratégia** para apoiar empresas de dife
 ### 📋Documentação
 - [Backlog](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/backlog.md)  
 
-- [Sprints](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/Sprint.md)
+- [Sprints DoD & DoR](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/Sprint.md)
 ----------------------------------------------------------------------------------------------------------------------
 
 ## ✒️ Autores
 - [Product owner](https://github.com/brinatex/-INTELLECT-COMPANY/blob/main/Desenvolvedores.md)
 -----------------------------------------------------------------------------------------------------------------------
-## 📞 Contatos
-- email: intellectcomp@gmail.com
-- telefone:(12)981715458
-- instagram:@inttcomp
+## 📞 Contatos 
+| Foto | Nome Completo | Papel | Contato |
+| :--- | :--- | :--- | :--- |
+| <img src="https://avatars.githubusercontent.com/u/101799753?v=4" width=115> | Gustavo Brinate| Desenvolvedor Full-Stack | [LinkedIn](https://www.linkedin.com/in/gustavobrinate/) |
   
 
